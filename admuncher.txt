@@ -10193,3 +10193,7 @@
 */ysmcm/?columns=
 *: /npoima.swf
 *: /liverail.swf
+||*verycheap.cheap-ads.net$all
+/lucky/
+/skip5/
+/adskip5/
