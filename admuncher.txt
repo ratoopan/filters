@@ -10267,7 +10267,6 @@
 ##.ad-showing
 ##.ad-created
 ##.ytd-carousel-ad-renderer
-##.style-scope
 ##.ad-class
 ##.ytp-ad-module.video-ads
 ###ad-message
