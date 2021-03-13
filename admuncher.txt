@@ -10266,9 +10266,6 @@
 ##.ad-interrupting
 ##.ad-showing
 ##.ad-created
-##.ytd-carousel-ad-renderer
-##.ad-class
-##.ytp-ad-module.video-ads
 ###ad-message
 ##.ytp-ad-message-slot
 ##.ytp-ad-message-container
